@@ -1,0 +1,5 @@
+E:\projects\vs\oop17\oop17\obj\x86\Release\ResolveAssemblyReference.cache
+E:\projects\vs\oop17\oop17\bin\Release\oop17.exe
+E:\projects\vs\oop17\oop17\bin\Release\oop17.pdb
+E:\projects\vs\oop17\oop17\obj\x86\Release\oop17.exe
+E:\projects\vs\oop17\oop17\obj\x86\Release\oop17.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\admindb\Local Settings\Application Data\Temporary Projects\oop9\bin\Debug\oop9.exe
+C:\Documents and Settings\admindb\Local Settings\Application Data\Temporary Projects\oop9\bin\Debug\oop9.pdb
+C:\Documents and Settings\admindb\Local Settings\Application Data\Temporary Projects\oop9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admindb\Local Settings\Application Data\Temporary Projects\oop9\obj\x86\Debug\oop9.exe
+C:\Documents and Settings\admindb\Local Settings\Application Data\Temporary Projects\oop9\obj\x86\Debug\oop9.pdb
+E:\projects\vs\oop9\oop9\obj\x86\Debug\oop9.exe
+E:\projects\vs\oop9\oop9\obj\x86\Debug\oop9.pdb
+E:\projects\vs\oop9\oop9\bin\Debug\oop9.exe
+E:\projects\vs\oop9\oop9\bin\Debug\oop9.pdb
+E:\projects\vs\oop9\oop9\obj\x86\Debug\ResolveAssemblyReference.cache

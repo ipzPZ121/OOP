@@ -1,0 +1,5 @@
+E:\projects\vs\oop2\oop2\bin\Release\oop2.exe
+E:\projects\vs\oop2\oop2\bin\Release\oop2.pdb
+E:\projects\vs\oop2\oop2\obj\x86\Release\ResolveAssemblyReference.cache
+E:\projects\vs\oop2\oop2\obj\x86\Release\oop2.exe
+E:\projects\vs\oop2\oop2\obj\x86\Release\oop2.pdb

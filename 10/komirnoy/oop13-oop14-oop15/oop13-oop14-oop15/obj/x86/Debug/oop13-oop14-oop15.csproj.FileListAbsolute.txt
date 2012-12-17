@@ -1,0 +1,5 @@
+E:\projects\vs\oop13-oop14-oop15\oop13-oop14-oop15\bin\Debug\oop13-oop14-oop15.exe
+E:\projects\vs\oop13-oop14-oop15\oop13-oop14-oop15\bin\Debug\oop13-oop14-oop15.pdb
+E:\projects\vs\oop13-oop14-oop15\oop13-oop14-oop15\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\projects\vs\oop13-oop14-oop15\oop13-oop14-oop15\obj\x86\Debug\oop13-oop14-oop15.exe
+E:\projects\vs\oop13-oop14-oop15\oop13-oop14-oop15\obj\x86\Debug\oop13-oop14-oop15.pdb

@@ -1,0 +1,5 @@
+E:\projects\vs\oop3\oop3\bin\Debug\oop3.exe
+E:\projects\vs\oop3\oop3\bin\Debug\oop3.pdb
+E:\projects\vs\oop3\oop3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\projects\vs\oop3\oop3\obj\x86\Debug\oop3.exe
+E:\projects\vs\oop3\oop3\obj\x86\Debug\oop3.pdb

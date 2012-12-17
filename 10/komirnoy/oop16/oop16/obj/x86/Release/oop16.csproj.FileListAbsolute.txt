@@ -1,0 +1,5 @@
+E:\projects\vs\oop16\oop16\obj\x86\Release\ResolveAssemblyReference.cache
+E:\projects\vs\oop16\oop16\bin\Release\oop16.exe
+E:\projects\vs\oop16\oop16\bin\Release\oop16.pdb
+E:\projects\vs\oop16\oop16\obj\x86\Release\oop16.exe
+E:\projects\vs\oop16\oop16\obj\x86\Release\oop16.pdb

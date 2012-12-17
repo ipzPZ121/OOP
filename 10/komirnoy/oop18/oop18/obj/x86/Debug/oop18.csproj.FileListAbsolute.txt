@@ -1,0 +1,10 @@
+D:\projects\oop18\oop18\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\oop18\oop18\bin\Debug\oop18.exe
+D:\projects\oop18\oop18\bin\Debug\oop18.pdb
+D:\projects\oop18\oop18\obj\x86\Debug\oop18.exe
+D:\projects\oop18\oop18\obj\x86\Debug\oop18.pdb
+e:\projects\vs\oop18\oop18\obj\x86\Debug\oop18.exe
+e:\projects\vs\oop18\oop18\obj\x86\Debug\oop18.pdb
+e:\projects\vs\oop18\oop18\bin\Debug\oop18.exe
+e:\projects\vs\oop18\oop18\bin\Debug\oop18.pdb
+e:\projects\vs\oop18\oop18\obj\x86\Debug\ResolveAssemblyReference.cache

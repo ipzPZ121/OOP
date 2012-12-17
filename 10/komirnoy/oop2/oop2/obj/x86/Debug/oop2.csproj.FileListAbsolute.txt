@@ -1,0 +1,10 @@
+D:\projects\oop2\oop2\bin\Debug\oop2.exe
+D:\projects\oop2\oop2\bin\Debug\oop2.pdb
+D:\projects\oop2\oop2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\oop2\oop2\obj\x86\Debug\oop2.exe
+D:\projects\oop2\oop2\obj\x86\Debug\oop2.pdb
+e:\projects\vs\oop2\oop2\obj\x86\Debug\oop2.exe
+e:\projects\vs\oop2\oop2\obj\x86\Debug\oop2.pdb
+e:\projects\vs\oop2\oop2\bin\Debug\oop2.exe
+e:\projects\vs\oop2\oop2\bin\Debug\oop2.pdb
+e:\projects\vs\oop2\oop2\obj\x86\Debug\ResolveAssemblyReference.cache

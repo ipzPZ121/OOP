@@ -1,0 +1,10 @@
+E:\projects\vs\oop17\oop17\bin\Debug\oop17.exe
+E:\projects\vs\oop17\oop17\bin\Debug\oop17.pdb
+E:\projects\vs\oop17\oop17\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\projects\vs\oop17\oop17\obj\x86\Debug\oop17.exe
+E:\projects\vs\oop17\oop17\obj\x86\Debug\oop17.pdb
+D:\projects\oop17\oop17\obj\x86\Debug\oop17.exe
+D:\projects\oop17\oop17\obj\x86\Debug\oop17.pdb
+D:\projects\oop17\oop17\bin\Debug\oop17.exe
+D:\projects\oop17\oop17\bin\Debug\oop17.pdb
+D:\projects\oop17\oop17\obj\x86\Debug\ResolveAssemblyReference.cache
