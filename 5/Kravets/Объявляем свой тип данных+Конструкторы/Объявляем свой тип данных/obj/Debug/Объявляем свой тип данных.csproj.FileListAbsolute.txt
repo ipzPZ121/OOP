@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2012\Projects\Объявляем свой тип данных\Объявляем свой тип данных\bin\Debug\Объявляем свой тип данных.exe.config
+c:\users\andrew\documents\visual studio 2012\Projects\Объявляем свой тип данных\Объявляем свой тип данных\bin\Debug\Объявляем свой тип данных.exe
+c:\users\andrew\documents\visual studio 2012\Projects\Объявляем свой тип данных\Объявляем свой тип данных\bin\Debug\Объявляем свой тип данных.pdb
+c:\users\andrew\documents\visual studio 2012\Projects\Объявляем свой тип данных\Объявляем свой тип данных\obj\Debug\Объявляем свой тип данных.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2012\Projects\Объявляем свой тип данных\Объявляем свой тип данных\obj\Debug\Объявляем свой тип данных.exe
+c:\users\andrew\documents\visual studio 2012\Projects\Объявляем свой тип данных\Объявляем свой тип данных\obj\Debug\Объявляем свой тип данных.pdb

@@ -1,0 +1,2 @@
+c:\users\andrew\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\bin\Debug\Инкапсуляция.exe.config
+c:\users\andrew\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\obj\Debug\Инкапсуляция.csprojResolveAssemblyReference.cache
