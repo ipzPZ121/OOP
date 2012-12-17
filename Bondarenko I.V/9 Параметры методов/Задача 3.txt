@@ -1,6 +1,0 @@
-public void Rest(ref int a,ref  int b)
-{
-	int c = a;
-	a = b;
-	b = a;
-}
